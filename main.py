@@ -1,6 +1,3 @@
-# @Author : Cheng Huang
-# @Time   : 15:15 2022/9/26
-# @File   : main.py
 import os
 import time
 

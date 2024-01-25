@@ -126,8 +126,6 @@ if __name__ == '__main__':
     db_path = os.path.join(root, "complete_data", "dbpedia", "complete_extract_dbpedia.tsv")
     lm_path = os.path.join(root, "complete_data", "lmdb", "complete_extract_lmdb.tsv")
 
-    # db_path = "/Users/huangcheng/Documents/ESBasedonSimilarity/data_analysis/dbpedia/dbpedia_all.txt"
-    # lm_path = "/Users/huangcheng/Documents/ESBasedonSimilarity/data_analysis/lmdb/lmdb_all.txt"
 
     startTime = time.time()
 

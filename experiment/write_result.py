@@ -1,6 +1,3 @@
-# @Author : Cheng Huang
-# @Time   : 11:33 2022/9/26
-# @File   : write_result.py
 import os
 
 import torch
